@@ -1,6 +1,6 @@
 # parcel-dir-dependency
 
-1. Checkout the pull request in (for example) `/path/to/parcel`
+1. Checkout the [pull request](https://github.com/parcel-bundler/parcel/pull/6299) in (for example) `/path/to/parcel`
 1. In **this** repo, run `yarn install`
 1. Then run `/path/to/parcel/packages/core/parcel/src/bin.js watch src/index.html`
 
