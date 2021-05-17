@@ -1,0 +1,7 @@
+{
+  "name": "parcel-example",
+  "dependencies": {
+    "fast-glob": "^3.2.5",
+    "postcss": "^8.2.15"
+  }
+}
